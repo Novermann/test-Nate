@@ -1,0 +1,13 @@
+{
+  "appname": "test-Nate",
+  "ocscope": "FullAccess",
+  "clientid": "169A8CA2-F89F-49B7-B386-9B79ED07DEED",
+  "buyerid": "test",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
